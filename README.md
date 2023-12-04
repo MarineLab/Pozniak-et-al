@@ -11,6 +11,7 @@ This repository contains scripts used to analyse scRNAseq and spatial transcript
 4. Config file for running SCENIC 50x using Nextflow (harmony_scenic50x.vsn-pipelines)
 5. Mouse tumour heterogeneity in vivo and in vitro (Mouse_heterogeneity_label_transfer.R)
 6. Example of Visium (10x Genomics) data analysis on one sample (Visium_example.R)
+7. Example of Molecular Cartography (Resolve Biosciences) data analysis on one sample (Resolve_example.ipynb)
 
 ## Location of the raw data
 
