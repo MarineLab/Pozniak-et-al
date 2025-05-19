@@ -17,6 +17,6 @@ This repository contains scripts used to analyse scRNAseq and spatial transcript
 
 The data was deposited to the EGA portal with the study number: EGAS00001006488
 
-### Location of the rds file of the malignant cells
+### Location of the rds file of the entire tumor micoenvironment and the malignant cells
 
 https://doi.org/10.48804/GSAXBN
