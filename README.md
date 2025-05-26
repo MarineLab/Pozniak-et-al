@@ -1,6 +1,6 @@
 # A TCF4-dependent gene regulatory network confers resistance to immunotherapy in melanoma
 
-This repository contains scripts used to analyse scRNAseq and spatial transcriptomic data.
+This repository contains scripts used to analyse scRNAseq and spatial transcriptomic data in the 10.1016/j.cell.2023.11.037 publication.
 
 ## List of scripts / steps of the analysis
 
